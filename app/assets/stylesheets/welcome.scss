@@ -79,3 +79,10 @@ a , span {
 	width: 40px;
 	font-size: 2em;
 }
+
+/* RESPONSIVE */
+@media screen and (max-width: 740px) { 
+	.main-content { 
+	top: 0;
+	}
+}
