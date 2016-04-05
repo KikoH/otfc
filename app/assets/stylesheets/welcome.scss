@@ -5,14 +5,10 @@ html, body {
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
-html {
-	background: url("https://s3.amazonaws.com/kiko-otfc/comingsoonmin.jpg") no-repeat center center fixed;
-	background-size: cover;
-}
-
 body {
 	width: 100%;
-	min-height: 1024px;
+	background: url("https://s3.amazonaws.com/kiko-otfc/comingsoonmin.jpg") no-repeat center center fixed;
+	background-size: cover;
 }
 
 #main-container::before {
